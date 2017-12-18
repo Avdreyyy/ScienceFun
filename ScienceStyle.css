@@ -1,0 +1,22 @@
+.intro{font-size: 30px;}
+.action{border: 90px green;
+    font-size: 30px;
+    padding: 10px;
+font-family: 'Bungee', cursive;}
+a{color:olivedrab;}body{margin: 40px;}
+.intro{font-size: 30px;}
+.action{margin-right: auto; border: 10px red inherit;
+    font-size:20px;
+    padding: 30px;}
+body {background-color: powderblue;}
+h2{margin-left: 600;
+font-family:'Bungee', cursive;
+font-size: 30;}
+h1 {font-size: 45;
+    color: olivedrab;
+    font-family: 'Bungee', cursive;
+margin-left: 200px;}
+p{color: darkcyan;
+font-size: 20}
+.imgCenter{margin-left: 350px;}
+img{margin-left: 540px;}
